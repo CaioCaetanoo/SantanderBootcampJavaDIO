@@ -1,0 +1,11 @@
+import java.util;
+
+public class ListaTarefa{
+
+private List<Tarefa> tarefaList;
+
+public tarefaList(){
+    this.tarefaList = new Arraylist<>();
+}
+
+}
