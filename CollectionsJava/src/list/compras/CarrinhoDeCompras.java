@@ -1,4 +1,4 @@
-package compras;
+package list.compras;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -60,7 +60,7 @@ public class CarrinhoDeCompras {
     }
 
     public static void main(String[] args) {
-        // Criando uma instância do carrinho de compras
+        // Criando uma instância do carrinho de list.compras
         CarrinhoDeCompras carrinhoDeCompras = new CarrinhoDeCompras();
 
         // Adicionando itens ao carrinho
