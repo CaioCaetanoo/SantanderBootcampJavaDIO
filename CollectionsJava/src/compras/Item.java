@@ -1,4 +1,4 @@
-package exercicio;
+package compras;
 
 public class Item {
     //atributos
