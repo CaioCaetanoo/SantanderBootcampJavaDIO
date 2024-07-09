@@ -1,4 +1,4 @@
-package list.compras;
+package operacoesList.compras;
 
 public class Item {
     //atributos

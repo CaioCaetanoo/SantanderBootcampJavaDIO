@@ -1,4 +1,4 @@
-package list;
+package operacoesList;
 
 public class Tarefa {
     //atributo

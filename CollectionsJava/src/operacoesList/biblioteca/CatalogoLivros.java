@@ -1,4 +1,4 @@
-package list.biblioteca;
+package operacoesList.biblioteca;
 
 import java.util.ArrayList;
 import java.util.List;

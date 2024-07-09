@@ -1,4 +1,4 @@
-package list.compras;
+package operacoesList.compras;
 
 import java.util.ArrayList;
 import java.util.List;
