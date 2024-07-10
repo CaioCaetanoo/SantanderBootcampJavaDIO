@@ -1,4 +1,4 @@
-package operacoesSet.setInterface;
+package operacoesSet.convite;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -15,7 +15,7 @@ public class ConjuntoConvidados {
         convidadoSet.add(new Convidado(nome, codigoConvite));
     }
 
-    public void removerConvidadoPorCodigoConvite(String codigoConvite) {
+    public void removerConvidadoPorCodigoConvite(int codigoConvite) {
         Convidado convidadoParaRemover = null;
         for(Convidado c : convidadoSet){
             if(c.getCodigoConvite() == codigoConvite) {
@@ -40,11 +40,14 @@ public class ConjuntoConvidados {
         conjuntoConvidados.adicionarConvidado("Pedro", 1235);
         conjuntoConvidados.adicionarConvidado("João", 1236);
         conjuntoConvidados.adicionarConvidado("Lucas", 1236);
+        conjuntoConvidados.adicionarConvidado("Douglas", 1237);
 
-        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + "dentro do Set de convidados");
+        conjuntoConvidados.exibirConvidados(); //após a inserção do método de comparação para códigos iguais.
 
-        conjuntoConvidados.removerConvidadoPorCodigoConvite(1234);
-        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + "dentro do Set de convidados");
+        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados dentro do Set de convidados");
+
+        conjuntoConvidados.removerConvidadoPorCodigoConvite(1236);
+        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados dentro do Set de convidados");
 
         conjuntoConvidados.exibirConvidados();
     }
