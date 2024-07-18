@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20acd3bc-d1d8-477b-9bea-ba600a43ff22" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/ContaBanco.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/bin/ContaTerminal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/src/ContaTerminal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControleCandidatos/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControleCandidatos/ControleCandidatos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControleCandidatos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControleCandidatos/bin/candidatura/ProcessoSeletivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControleCandidatos/src/candidatura/ProcessoSeletivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleDeFluxo/DesafioControleFluxo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleDeFluxo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleDeFluxo/bin/Contador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleDeFluxo/bin/ParametrosInvalidosException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleDeFluxo/src/Contador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleDeFluxo/src/ParametrosInvalidosException.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CaioCaetanoo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CaioCaetanoo/SantanderBootcampJavaDIO.git",
+    "accountId": "3519cf68-394c-4118-a2e6-14c5fae246a7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jOVLERyaoQrfYNtroLeucJVd7f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Dev/Aulas-java/SantanderBootcampJavaDIO/lab-banco-digital-oo-master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20acd3bc-d1d8-477b-9bea-ba600a43ff22" name="Changes" comment="" />
+      <created>1721258051575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721258051575</updated>
+    </task>
+    <servers />
+  </component>
+</project>
