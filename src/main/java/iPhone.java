@@ -1,4 +1,4 @@
-public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
+public class iPhone implements reprodutorMusical, aparelhoTelefonico, navegadorInternet {
 
     @Override
     public void play() {
@@ -56,7 +56,7 @@ public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
         meuIphone.atender();
         meuIphone.iniciarCorreioVoz();
 
-        meuIphone.exibirPagina("www.example.com");
+        meuIphone.exibirPagina("www.dio.me");
         meuIphone.adicionarNovaAba();
         meuIphone.atualizarPagina();
     }
